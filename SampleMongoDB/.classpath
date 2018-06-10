@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/mongodb/mongo-java-driver/3.6.3/mongo-java-driver-3.6.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sparkjava/spark-core/2.6.0/spark-core-2.6.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-server/9.4.4.v20170414/jetty-server-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-http/9.4.4.v20170414/jetty-http-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-util/9.4.4.v20170414/jetty-util-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-io/9.4.4.v20170414/jetty-io-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-webapp/9.4.4.v20170414/jetty-webapp-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-xml/9.4.4.v20170414/jetty-xml-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-servlet/9.4.4.v20170414/jetty-servlet-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-security/9.4.4.v20170414/jetty-security-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-server/9.4.4.v20170414/websocket-server-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-common/9.4.4.v20170414/websocket-common-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-api/9.4.4.v20170414/websocket-api-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-client/9.4.4.v20170414/websocket-client-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-client/9.4.4.v20170414/jetty-client-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-servlet/9.4.4.v20170414/websocket-servlet-9.4.4.v20170414.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/freemarker/freemarker/2.3.28/freemarker-2.3.28.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+</classpath>
